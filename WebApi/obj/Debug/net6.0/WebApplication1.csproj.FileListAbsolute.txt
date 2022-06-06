@@ -1,0 +1,6 @@
+C:\Users\luiz.santiago\source\repos\WebApplication\WebApplication\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.santiago\source\repos\WebApplication\WebApplication\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\luiz.santiago\source\repos\WebApplication\WebApplication\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\luiz.santiago\source\repos\WebApplication\WebApplication\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\luiz.santiago\source\repos\WebApplication\WebApplication\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luiz.santiago\source\repos\WebApplication\WebApplication\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
